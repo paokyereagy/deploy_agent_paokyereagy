@@ -1,5 +1,5 @@
-# Attendance Tracker Project Setup explainining what the script does
 
+Attendance checker project setup explaining what the script does
 1. I Created a Parent Directory which asks you for a name and builds a custom project folder with this structure:
 ```
 attendance_tracker_[your-name]/
@@ -22,9 +22,8 @@ attendance_tracker_[your-name]/
 
 ---
 
-# Now How to Run It
-
-1. Give the script permission to run:
+How to run the it
+   1. Give the script permission to run:
 
 ```bash
    chmod +x script.sh
