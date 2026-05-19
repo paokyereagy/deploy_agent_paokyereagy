@@ -35,4 +35,4 @@ echo "Canceling..."
 if [ -d "attendance_tracker_${input}" ]; then zip -r "attendance_tracker_${input}_archive" "attendance_tracker_${input}"
         rm -rf "attendance_tracker_${input}"
         echo " finished "
-fi:wq
+fi
