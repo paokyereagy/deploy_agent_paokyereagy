@@ -1,0 +1,13 @@
+" zip.vim version v28
+" Browsing zipfile /deploy_agent_paokyereagy/attendance_tracker__archive.zip
+" Select a file with cursor and press ENTER
+
+attendance_tracker_/
+attendance_tracker_/helpers/
+attendance_tracker_/helpers/assets.csv
+attendance_tracker_/helpers/config.json
+attendance_tracker_/reports/
+attendance_tracker_/reports/reports.log
+attendance_tracker_/attendance_checker.py
+attendance_tracker_/reports/reports
+~
